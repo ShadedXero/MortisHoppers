@@ -1,0 +1,11 @@
+name: MortisHoppers
+version: '${project.version}'
+main: me.none030.mortishoppers.MortisHoppers
+api-version: 1.13
+softdepend:
+  - Towny
+commands:
+  hopper:
+    aliases:
+      - hoppers
+      - mortishoppers
